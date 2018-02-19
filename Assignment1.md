@@ -1,4 +1,4 @@
-#Software Reversing Lab 1 - Fuzzing and Analysis
+# Software Reversing Lab 1 - Fuzzing and Analysis
 
 You are asked to fuzz two existing applications using AFL. This can be a piece of code one of you developed, any downloaded binary (check CVE's https://cve.mitre.org/ for common vulnerabilities in (older) binaries), an open source project, or a CTF (check https://writeups.easyctf.com/). In addition to trying to make it crash, you should investigate and explain why it crashes, e.g., using a debugger such as GDB, OllyDBG, or LLDB.
 
